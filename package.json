@@ -20,7 +20,6 @@
   },
   "type": "module",
   "dependencies": {
-    "approve-builds": "^1.0.0",
     "bcrypt": "^6.0.0",
     "cors": "^2.8.6",
     "debug": "^4.4.3",
