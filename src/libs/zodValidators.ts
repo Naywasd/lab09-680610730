@@ -57,5 +57,18 @@ export const zStudentPutBody = z.object({
 
 export const zEnrollmentBody = z.object({
   studentId: zStudentId,
-  courseId: zCourseId,
+  courseNo: zCourseId,
+});
+
+export const zUserLoginBody = z.object({
+    username: z.string().email(),
+    password: z.string().min(1),
+});
+
+export const zEnrollmentDeleteBody = z.object({
+    courseNo: zCourseId,
+});
+
+export const zEnrollmentPostBody = z.object({
+    courseNo: zCourseId,
 });

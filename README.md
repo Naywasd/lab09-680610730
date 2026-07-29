@@ -1,4 +1,12 @@
-# Lecture 09 - RESTful API (Part 3)
+# Lab 09 - RESTful API (Part 3)
+
+ป้อนข้อมูลนักศึกษา
+
+รหัส นศ.: 680610730
+
+ชื่อ-สกุล : เสริมทรัพย์ บรรจบกาญจน์
+
+Vercel URL : https://lab09-680610730.vercel.app
 
 ### Content
 
